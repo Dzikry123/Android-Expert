@@ -1,0 +1,5 @@
+com.example.core
+id card_view
+id imageUser
+id tvUserSlice
+layout list_item

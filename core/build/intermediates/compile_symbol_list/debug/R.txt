@@ -1,0 +1,4 @@
+int id card_view 0x0
+int id imageUser 0x0
+int id tvUserSlice 0x0
+int layout list_item 0x0

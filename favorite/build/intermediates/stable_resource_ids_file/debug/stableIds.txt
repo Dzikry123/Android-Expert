@@ -1,0 +1,2 @@
+com.example.project_one:layout/activity_favorite = 0x7e020000
+com.example.project_one:id/FavoriteListRv = 0x7e010000

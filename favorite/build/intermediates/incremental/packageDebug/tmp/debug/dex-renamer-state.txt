@@ -1,0 +1,13 @@
+#Sat Feb 17 11:23:36 ICT 2024
+base.0=D\:\\Android-Project\\Dicoding-Expert\\UserList\\ProjectOne\\favorite\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=D\:\\Android-Project\\Dicoding-Expert\\UserList\\ProjectOne\\favorite\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
+base.2=D\:\\Android-Project\\Dicoding-Expert\\UserList\\ProjectOne\\favorite\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+base.3=D\:\\Android-Project\\Dicoding-Expert\\UserList\\ProjectOne\\favorite\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
+path.0=0/classes.dex
+path.1=10/classes.dex
+path.2=14/classes.dex
+path.3=7/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex

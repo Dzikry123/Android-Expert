@@ -1,0 +1,2 @@
+int id FavoriteListRv 0x7e010000
+int layout activity_favorite 0x7e020000
