@@ -28,7 +28,7 @@ android {
         minSdk 21
 
         buildConfigField("String", "API_URL", '"https://api.github.com/"')
-        buildConfigField("String", "TOKEN", '"token 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"')
+        buildConfigField("String", "TOKEN", '"token "')
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles "consumer-rules.pro"
